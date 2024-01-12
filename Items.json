@@ -1,17 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Asset1",
-    "asseturl": "https://example.com/assets/asset1"
+    "name": "Pillsbury™ Premium Egg Free Vanilla",
+    "asseturl": "https://www.generalmillsindiabfs.in/wp-content/uploads/2020/10/Pillsbury-India-premium-egg-free-vanilla-460x460-1.png"
   },
   {
     "id": 2,
-    "name": "Asset2",
-    "asseturl": "https://example.com/assets/asset2"
+    "name": "Pillsbury™ Egg Free Chocolate Cake Mix",
+    "asseturl": "https://www.generalmillsindiabfs.in/wp-content/uploads/2020/10/Pillsbury-India-EggFree-Choco-Cake-460x460-1.png"
   },
   {
     "id": 3,
-    "name": "Asset3",
-    "asseturl": "https://example.com/assets/asset3"
+    "name": "Maggi Coconut Milk Powder 1kg",
+    "asseturl": "https://goa.wicekart.com/wp-content/uploads/2022/06/Maggi-Coconut-Milk-Powder-1kg.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Eggs",
+    "asseturl": "https://www.licious.in/blog/wp-content/uploads/2022/01/eggs-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nestle - Milkmaid, 380 gm ",
+    "asseturl": "https://flavormart.in/cdn/shop/products/a3_480x.jpg?v=1620299868"
+  },
+  {
+    "id": 6,
+    "name": "Maida",
+    "asseturl": "https://5.imimg.com/data5/SELLER/Default/2022/4/CD/HG/EM/106091433/maida-loose-3-500x500.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Refined Sunflower Oil, 15 L Tin",
+    "asseturl": "https://www.bigbasket.com/media/uploads/p/l/40080946_8-fortune-sunflower-oil.jpg?tr=w-1080,q=80"
   }
 ]
