@@ -1,19 +1,17 @@
+[
   {
-    id: 1,
-    name: 'Item 1',
-    imageUrl: 'https://example.com/item1.jpg',
-    description: 'Description for Item 1',
+    "id": 1,
+    "name": "Asset1",
+    "asseturl": "https://example.com/assets/asset1"
   },
   {
-    id: 2,
-    name: 'Item 2',
-    imageUrl: 'https://example.com/item2.jpg',
-    description: 'Description for Item 2',
+    "id": 2,
+    "name": "Asset2",
+    "asseturl": "https://example.com/assets/asset2"
   },
   {
-    id: 3,
-    name: 'Item 3',
-    imageUrl: 'https://example.com/item3.jpg',
-    description: 'Description for Item 3',
-  },
-
+    "id": 3,
+    "name": "Asset3",
+    "asseturl": "https://example.com/assets/asset3"
+  }
+]
